@@ -23,8 +23,8 @@ This project is an **AI-powered automotive chatbot** built with **Mistral 7B**, 
 ## 🔧 **Installation & Setup**  
 
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/sanjanmiller/DriveMate–An-AI-Powered-Automotive-Chatbot-using-RAG-and-Mistral-7B.git  
-cd DriveMate – An-AI-Powered-Automotive-Chatbot-using-RAG-and-Mistral-7B
+git clone https://github.com/sanjanmiller/DriveMate-An-AI-Powered-Automotive-Chatbot-using-RAG-and-Mistral-7B.git  
+cd DriveMate-An-AI-Powered-Automotive-Chatbot-using-RAG-and-Mistral-7B
 
 ### **2️⃣ Install Dependencies**  
 pip install -r requirements.txt  
