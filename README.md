@@ -20,3 +20,12 @@ This project is an **AI-powered automotive chatbot** built with **Mistral 7B**, 
 
 ---
 
+## 🔧 **Installation & Setup**  
+
+### **1️⃣ Clone the Repository**  
+git clone https://github.com/sanjanmiller/Deep-Learning-Based-Traffic-Sign-Recognition-Web-App.git  
+cd Deep-Learning-Based-Traffic-Sign-Recognition-Web-App  
+
+### **2️⃣ Install Dependencies**  
+pip install -r requirements.txt  
+
