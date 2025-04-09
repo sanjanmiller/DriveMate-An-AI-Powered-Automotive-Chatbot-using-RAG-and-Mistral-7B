@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+sentencepiece
+sentence-transformers
+langchain
+langchain-community
+chromadb
+gradio
+pypdf
+pymupdf
+wikipedia-api
+beautifulsoup4
+requests
